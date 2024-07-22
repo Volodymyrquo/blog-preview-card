@@ -1,0 +1,11 @@
+@import './reset.css';
+@font-face {
+    font-family: 'Figtree';
+    src: url('./assets/fonts/Figtree-VariableFont_wght.ttf'),
+        url('./assets/fonts/Figtree-Italic-VariableFont_wght.ttf');
+}
+
+h1 {
+    font-family: 'Figtree';
+    font-size: 24px;
+}
