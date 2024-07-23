@@ -89,6 +89,12 @@ h1 {
     line-height: 150%;
     letter-spacing: 0%;
     text-align: left;
+    cursor: pointer;
+}
+h1:active,
+h1:hover,
+h1:focus {
+    color: var(--yellow);
 }
 p {
     color: rgb(127, 127, 127);
